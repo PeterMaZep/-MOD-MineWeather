@@ -58,13 +58,7 @@
         }
     },
     "imageCredit": {
-        "message": "$NAME$",
-        "placeholders": {
-            "name": {
-                "content": "$1",
-                "example": "Sawyer"
-            }
-        }
+        "message": "By PeterMaZep"
     },
     "locationHelp": {
         "message": "Click the location icon on the right side of the search bar. Follow its instructions to enable weather access."
